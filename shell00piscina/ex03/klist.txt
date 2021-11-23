@@ -1,0 +1,6 @@
+Credentials cache: API:6156
+        Principal: molmo-cu@42MADRID.COM
+
+  Issued                Expires               Principal
+Nov 23 16:14:59 2021  Nov 24 02:14:59 2021  krbtgt/42MADRID.COM@42MADRID.COM
+Nov 23 16:15:00 2021  Nov 24 02:14:59 2021  HTTP/student-storage.42madrid.com@42MADRID.COM
